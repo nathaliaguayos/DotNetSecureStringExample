@@ -1,0 +1,7 @@
+C:\Users\Nathali_Aguayo\Desktop\Nathali Aguayo\dotNet_SecureString_Example\dotNet_SecureString_Example\bin\Debug\dotNet_SecureString_Example.exe.config
+C:\Users\Nathali_Aguayo\Desktop\Nathali Aguayo\dotNet_SecureString_Example\dotNet_SecureString_Example\bin\Debug\dotNet_SecureString_Example.exe
+C:\Users\Nathali_Aguayo\Desktop\Nathali Aguayo\dotNet_SecureString_Example\dotNet_SecureString_Example\bin\Debug\dotNet_SecureString_Example.pdb
+C:\Users\Nathali_Aguayo\Desktop\Nathali Aguayo\dotNet_SecureString_Example\dotNet_SecureString_Example\obj\Debug\dotNet_SecureString_Example.csprojAssemblyReference.cache
+C:\Users\Nathali_Aguayo\Desktop\Nathali Aguayo\dotNet_SecureString_Example\dotNet_SecureString_Example\obj\Debug\dotNet_SecureString_Example.csproj.CoreCompileInputs.cache
+C:\Users\Nathali_Aguayo\Desktop\Nathali Aguayo\dotNet_SecureString_Example\dotNet_SecureString_Example\obj\Debug\dotNet_SecureString_Example.exe
+C:\Users\Nathali_Aguayo\Desktop\Nathali Aguayo\dotNet_SecureString_Example\dotNet_SecureString_Example\obj\Debug\dotNet_SecureString_Example.pdb
